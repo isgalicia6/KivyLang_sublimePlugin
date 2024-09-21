@@ -59,6 +59,8 @@ if you have a better api please let me know!
     copy all the files into C:\Users\{user_name}\AppData\Roaming\Sublime Text 3\Packages\KivyLang
 
 * for linux:
+      Descargar el zip, extraerlo en: /opt/sublime_text/Packages/KivyLang (La carpeta debe tener el nombre KivyLang, no se necesita empaquetar), cerrar y             volver a abrir Sublime.
+      Download the zip, extract it to: /opt/sublime_text/Packages/KivyLang (The folder should be named KivyLang, no packaging needed), close and reopen                 Sublime.
 
 * for mac:
 
